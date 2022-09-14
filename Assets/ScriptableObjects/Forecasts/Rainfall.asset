@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbc81b6bfe3c8554380bcc35d1db49d3, type: 3}
+  m_Name: Rainfall
+  m_EditorClassIdentifier: 
+  _cardSprite: {fileID: -2757931187393786561, guid: 300f3fbc4786bd24487c7ea94ff9d3be,
+    type: 3}
+  _highlightedCardSprite: {fileID: 7841142942894970233, guid: f15c16ea2a27c3246957d001bf6292f4,
+    type: 3}
+  _objectSprite: {fileID: -2475328434790235217, guid: 2e2fca2b32d060f4fab2378eedeeed79,
+    type: 3}

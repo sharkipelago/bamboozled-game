@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="ThunderClean_data" version="1.3.0" audacityversion="2.3.2" sel0="2.8966207906" sel1="2.8966207906" vpos="0" h="0.0000000000" zoom="257.5414781297" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Thunder" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="47526">
+				<waveblock start="0">
+					<simpleblockfile filename="e080893a.au" len="47526" min="-0.722058" max="0.714075" rms="0.243411"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.99012500" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="47988">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080a8.au" len="47988" min="-0.455594" max="0.482409" rms="0.071025"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Thunder" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="47526">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808551.au" len="47526" min="-0.718287" max="0.723482" rms="0.245067"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="0.99012500" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="47988">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083b5.au" len="47988" min="-0.604594" max="0.420701" rms="0.07264"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Thunder" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0"/>
+	<wavetrack name="Thunder" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0"/>
+</project>
